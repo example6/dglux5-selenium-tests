@@ -1,0 +1,25 @@
+{
+  "name": "dglux5-selenium-tests",
+  "version": "1.0.0",
+  "description": "Automated Browser-based Tests for DGLux5",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/example6/dglux5-selenium-tests.git"
+  },
+  "keywords": [
+    "DGLux5"
+  ],
+  "author": "Julian Villalva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/example6/dglux5-selenium-tests/issues"
+  },
+  "homepage": "https://github.com/example6/dglux5-selenium-tests#readme",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.1"
+  }
+}
